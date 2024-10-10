@@ -12,3 +12,8 @@ V 0.2.0 Beta Build
 V 0.3.1 Buggy Alpha-1
 V 0.4.1 Stable Pre-Release
 V 0.5.1 [ FINAL RELEASE ]
+
+Requirements:
+Node.JS Latest Version V20
+Bot Hosting [ Discloud Recommnded ]
+
